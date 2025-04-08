@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=10.0.0
+numpy>=1.25.2
+fastapi==0.103.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+aiofiles==23.2.1
+matplotlib>=3.7.2
+requests==2.31.0
+python-dotenv==1.0.0 
